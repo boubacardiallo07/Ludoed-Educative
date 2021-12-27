@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- activity_color_games -->
+    <dimen name="tableLayout_height">350dp</dimen>
+    <dimen name="tableLayout_width">600dp</dimen>
+
+    <dimen name="Cercle_height">110dp</dimen>
+    <dimen name="Cercle_width">110dp</dimen>
+
+    <dimen name="triangle_height">110dp</dimen>
+    <dimen name="triangle_width">110dp</dimen>
+
+    <dimen name="etoile_height">110dp</dimen>
+    <dimen name="etoile_width">110dp</dimen>
+
+    <dimen name="buttonC">110dp</dimen>
+
+    <!-- activity_color_games(land) -->
+    <dimen name="tableLayout_height_land">350dp</dimen>
+    <dimen name="tableLayout_width_land">600dp</dimen>
+
+    <dimen name="Cercle_height_land">100dp</dimen>
+    <dimen name="Cercle_width_land">100dp</dimen>
+    <dimen name="transCercleX_land">20dp</dimen>
+    <dimen name="transCercleV_Y_land">10dp</dimen>
+
+    <dimen name="triangle_height_land">100dp</dimen>
+    <dimen name="triangle_width_land">100dp</dimen>
+    <dimen name="transTriangleX_land">135dp</dimen>
+    <dimen name="transTriangleV_Y_land">10dp</dimen>
+
+    <dimen name="etoile_height_land">100dp</dimen>
+    <dimen name="etoile_width_land">100dp</dimen>
+    <dimen name="transEtoileX_land">250dp</dimen>
+    <dimen name="transEtoileV_Y_land">10dp</dimen>
+
+    <dimen name="buttonC_land">100dp</dimen>
+    <dimen name="transButtonX_land">135dp</dimen>
+    <dimen name="transButtonY_land">50dp</dimen>
+
+    <!-- activity_coresp_games -->
+    <dimen name="drawing_height">300dp</dimen>
+    <dimen name="drawing_width">300dp</dimen>
+    <dimen name="drawingTransX">-0dp</dimen>
+    <dimen name="drawingTransy">30dp</dimen>
+
+    <dimen name="img1_height">250dp</dimen>
+    <dimen name="img1_width">250dp</dimen>
+    <dimen name="img1_transX">0dp</dimen>
+    <dimen name="img1_transY">0dp</dimen>
+
+    <dimen name="img2_height">250dp</dimen>
+    <dimen name="img2_width">250dp</dimen>
+    <dimen name="img2_transX">0</dimen>
+    <dimen name="img2_transY">200dp</dimen>
+
+
+    <!-- activity_coresp_games(land) -->
+    <dimen name="drawing_height_land">400</dimen>
+    <dimen name="drawing_width_land">300</dimen>
+    <dimen name="drawingTransX_land">0dp</dimen>
+    <dimen name="drawingTransy_land">50dp</dimen>
+
+    <dimen name="img1_height_land">250dp</dimen>
+    <dimen name="img1_width_land">250dp</dimen>
+    <dimen name="img1_transX_land">200dp</dimen>
+    <dimen name="img1_transY_land">-180dp</dimen>
+
+
+    <dimen name="img2_height_land">250dp</dimen>
+    <dimen name="img2_width_land">250dp</dimen>
+    <dimen name="img2_transX_land">200dp</dimen>
+    <dimen name="img2_transY_land">-120dp</dimen>
+
+
+    <!-- TextViews -->
+
+    <!-- TextViews -->
+
+    <!-- TextViews -->
+
+    <!-- TextViews -->
+    <dimen name="ivCercleP">400dip</dimen>
+    <dimen name="tableLayout">50sp</dimen>
+
+    <!-- Images -->
+    <dimen name="size_image_height">80dp</dimen>
+    <dimen name="size_image_width">80dp</dimen>
+</resources>

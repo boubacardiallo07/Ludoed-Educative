@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="ludoed" external.linked.project.path="/autofs/unitytravail/travail/agbarry/Univ_Bordeaux/Master/s2/PDP/projet/variante/V1/ludoed/src/ludoed" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILD_FOLDER_PATH" value="/autofs/unitytravail/travail/agbarry/Univ_Bordeaux/Master/s2/PDP/projet/variante/V1/ludoed/src/ludoed/build" />
+        <option name="BUILDABLE" value="false" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file:///autofs/unitytravail/travail/agbarry/Univ_Bordeaux/Master/s2/PDP/projet/variante/V1/ludoed/src/ludoed">
+      <excludeFolder url="file:///autofs/unitytravail/travail/agbarry/Univ_Bordeaux/Master/s2/PDP/projet/variante/V1/ludoed/src/ludoed/.gradle" />
+      <excludeFolder url="file:///autofs/unitytravail/travail/agbarry/Univ_Bordeaux/Master/s2/PDP/projet/variante/V1/ludoed/src/ludoed/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

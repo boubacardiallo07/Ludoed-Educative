@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- activity_color_games -->
+    <dimen name="tableLayout_height">350dp</dimen>
+    <dimen name="tableLayout_width">600dp</dimen>
+
+    <dimen name="Cercle_height">150dp</dimen>
+    <dimen name="Cercle_width">150dp</dimen>
+
+    <dimen name="triangle_height">150dp</dimen>
+    <dimen name="triangle_width">150dp</dimen>
+
+    <dimen name="etoile_height">150dp</dimen>
+    <dimen name="etoile_width">150dp</dimen>
+
+    <dimen name="buttonC">150dp</dimen>
+
+    <!-- activity_color_games(land) -->
+    <dimen name="tableLayout_height_land">500dp</dimen>
+    <dimen name="tableLayout_width_land">600dp</dimen>
+
+    <dimen name="Cercle_height_land">140dp</dimen>
+    <dimen name="Cercle_width_land">195dp</dimen>
+
+    <dimen name="triangle_height_land">140dp</dimen>
+    <dimen name="triangle_width_land">195dp</dimen>
+
+    <dimen name="etoile_height_land">140dp</dimen>
+    <dimen name="etoile_width_land">195dp</dimen>
+
+    <dimen name="buttonC_land">135dp</dimen>
+
+    <!-- activity_coresp_games -->
+    <dimen name="drawing_height">300dp</dimen>
+    <dimen name="drawing_width">300dp</dimen>
+    <dimen name="drawingTransX">-100dp</dimen>
+    <dimen name="drawingTransy">50dp</dimen>
+
+    <dimen name="img1_height">210dp</dimen>
+    <dimen name="img1_width">300dp</dimen>
+    <dimen name="img1_transX">0dp</dimen>
+    <dimen name="img1_transY">0dp</dimen>
+
+    <dimen name="img2_height">210dp</dimen>
+    <dimen name="img2_width">300dp</dimen>
+    <dimen name="img2_transX">200dp</dimen>
+    <dimen name="img2_transY">-120dp</dimen>
+
+
+    <!-- activity_coresp_games(land) -->
+    <dimen name="drawing_height_land">500dp</dimen>
+    <dimen name="drawing_width_land">400dp</dimen>
+    <dimen name="drawingTransX_land">-100dp</dimen>
+    <dimen name="drawingTransy_land">50dp</dimen>
+
+    <dimen name="img1_height_land">300dp</dimen>
+    <dimen name="img1_width_land">250dp</dimen>
+    <dimen name="img1_transX_land">200dp</dimen>
+    <dimen name="img1_transY_land">-180dp</dimen>
+
+
+    <dimen name="img2_height_land">300dp</dimen>
+    <dimen name="img2_width_land">250dp</dimen>
+    <dimen name="img2_transX_land">200dp</dimen>
+    <dimen name="img2_transY_land">-120dp</dimen>
+
+
+    <!-- TextViews -->
+
+    <!-- TextViews -->
+
+    <!-- TextViews -->
+
+    <!-- TextViews -->
+    <dimen name="ivCercleP">400dip</dimen>
+    <dimen name="tableLayout">50sp</dimen>
+
+    <!-- Images -->
+    <dimen name="size_image_height">80dp</dimen>
+    <dimen name="size_image_width">80dp</dimen>
+</resources>
